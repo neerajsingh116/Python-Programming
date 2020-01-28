@@ -1,0 +1,26 @@
+a=15
+c=30
+
+c=a+b                               # =operator
+print("c will be ",c)
+
+c+=a                                # +=operator i.e c=c+a
+print("c will be ",c)
+ 
+c-=a                                # -=operator i.e c=c-a
+print("c will be ",c)
+
+c*=a                                # *=operator i.e c=c*a
+print("c will be ",c)
+
+c/=a                                # /=operator i.e c=c/a
+print("c will be ",c)
+
+c%=a                                # %= operator i.e c%=c%a
+print("c will be ",c)
+
+c**=a                               # %= operator i.e c**=c**a
+print("c will be ",c)
+
+c//=a                               # %= operator i.e c//=c//a
+print("c will be ",c)
