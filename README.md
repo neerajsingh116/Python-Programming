@@ -4,3 +4,4 @@
 - [Assignment_Operator](https://github.com/neerajsingh116/Python-Programming/blob/master/Assignment_Operator)
 - [Comparison_Operator](https://github.com/neerajsingh116/Python-Programming/blob/master/Comparison_Operator)
 - [Logical_Operator](https://github.com/neerajsingh116/Python-Programming/blob/master/Logical_Operator)
+- [Bitwise_Operator](https://github.com/neerajsingh116/Python-Programming/blob/master/Bitwise_Operator.py)
