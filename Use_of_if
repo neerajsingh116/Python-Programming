@@ -1,0 +1,9 @@
+x=int(input("Enter any Number b/w 0-20: "))
+if x<10:
+    print("Smaller")
+if x>20:
+    print("Bigger")
+if x==10:
+    print("Value is 10")
+if x==20:
+    print("Value is 20")
