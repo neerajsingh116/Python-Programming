@@ -1,0 +1,38 @@
+#list
+list=["Neeraj","Ayush","Mummy","PAPA","Bhaiya","Ramesh","Ayu","Yash"]
+print(list)
+
+print(list[1])    #print element first
+print(list[1:3])  #print element from first to second third is not included
+print(list[:-5])  #print all element before last 5
+print(list[:4])   #print all element after 4
+
+list[1]="Sharad"
+print(list)
+
+
+for x in list:    #print line to line
+  print(x) 
+
+
+if "Ayu" in list:   #check whether element is present in list or not
+  print("Yes, 'Ayu' is in the list")
+
+print(len(list))     #print total length of list
+
+list.append("Nikhil")  #add element in list
+print(list)
+
+print(len(list))
+
+list.insert(1,"Nik")    #insert() method is used for inserting any element with position
+print(list)
+
+list.remove("Bhaiya")   #remove the entered element
+print(list)
+
+mylist=list.copy()      #copy 
+print(mylist)
+
+newlist=list+mylist     #add list
+print(newlist)
