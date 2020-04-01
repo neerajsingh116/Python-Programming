@@ -1,0 +1,21 @@
+x=10;
+y=10.2;
+z=1j;
+
+a=float(x);
+b=int(x);
+c=complex(x);
+
+                                   #d=int(z); 
+                                   #can't convert complex to int
+e=int(y);
+
+
+print(a)
+print(b)
+print(c)
+print(e)
+
+print(type(a))
+print(type(b))
+print(type(e))
