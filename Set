@@ -1,0 +1,31 @@
+set={"A","B","C","D","E","F"}
+print(set)
+
+
+set.add("Z")
+print(set)
+
+
+set.remove("Z")
+print(set)
+
+set.update(["a","b","c","d","f","A"])  #duplicate is not possible
+print(set)
+
+print(len(set))
+
+set.discard("b")           #delete b
+print(set)
+
+popuse=set.pop()
+print(popuse)           #print th element which has been poped it will be last element 
+
+
+set1={1,2,3,4,5,6}
+set2={11,12,13,14,15,16}
+
+set3=set1.union(set2)   #union os set1 and set 2
+print(set3)
+
+
+print(set[2])           #not possible 
