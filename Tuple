@@ -1,0 +1,8 @@
+tuple=("Ram","Shyam","Rahul","Rakesh","Raman","Aman")
+print(tuple)
+
+print(tuple[1:5])
+print(tuple[-5:])
+
+tuple[1]="Neeraj"      #tuple are not changable hence it doesn't run
+printf(tuple)
