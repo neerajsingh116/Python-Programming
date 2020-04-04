@@ -1,0 +1,51 @@
+dic={                                   #Declaration of Dictionary
+    41:"Ayush",
+    42:"Neeraj",
+    43:"Nikhil",
+    44:"Choti",
+    45:"Avi"
+}
+print(dic)
+
+#extracting Data
+dic[42]                            
+#extracting Data
+dic.get(42)                         
+
+#tring to extract data which is not present
+dic.get(46)                          
+print(dic.get(46))                    #will print none if no data is their
+
+dic.get(46,"Ayu")          #if it is not present in above enterd dictionary then it will print the value you entered
+
+dic[44]
+
+dic[45]="Achu"
+
+#loop
+for x in dic:                  
+    print(x)
+    print(dic)
+    
+#findinglength
+print(len(dic))              
+
+#add item
+dic[46]="Rahul"              
+print(dic)
+
+dic.pop(42)                 #for poping any item using key 
+print(dic)
+
+dic.popitem()               #pop last inserted item
+print(dic)
+
+del dic[43]                 #delete any item using key
+print(dic)     
+
+#if we use clear() fuction irt will clear all item.It is used as dic.clear()
+
+#for coping dictionary
+mydic=dic.copy()
+print(mydic)
+
