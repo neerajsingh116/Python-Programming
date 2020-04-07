@@ -1,0 +1,11 @@
+X=5
+print("Hello")
+
+def function():
+    print("Hello Neeraj")
+    print("Neeraj is a programmer")
+
+print("Yo")
+X=X+2
+print(X)
+function()
