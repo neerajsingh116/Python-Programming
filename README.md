@@ -11,3 +11,4 @@
 - [Set](https://github.com/neerajsingh116/Python-Programming/blob/master/Set)
 - [Tuple](https://github.com/neerajsingh116/Python-Programming/blob/master/Tuple)
 - [Dictionary](https://github.com/neerajsingh116/Python-Programming/blob/master/Dictionary)
+- [Fuctions_basics](https://github.com/neerajsingh116/Python-Programming/blob/master/Fuctions_basics)
