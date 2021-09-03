@@ -12,3 +12,4 @@
 - [Tuple](https://github.com/neerajsingh116/Python-Programming/blob/master/Tuple)
 - [Dictionary](https://github.com/neerajsingh116/Python-Programming/blob/master/Dictionary)
 - [Fuctions_basics](https://github.com/neerajsingh116/Python-Programming/blob/master/Fuctions_basics)
+- [Rate_Hrs](https://github.com/neerajsingh116/Python-Programming/blob/master/Coursera_Week4_Rate_Hrs)
