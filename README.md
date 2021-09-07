@@ -16,3 +16,4 @@
 - [Use_of_if](https://github.com/neerajsingh116/Python-Programming/blob/master/Use_of_if)
 - [Largest](https://github.com/neerajsingh116/Python-Programming/blob/master/Largest)
 - [Indentation_If](https://github.com/neerajsingh116/Python-Programming/blob/master/Indentation_If_)
+- [Week6_Programming_for_Everybody](https://github.com/neerajsingh116/Python-Programming/blob/master/Cousera_Week6_Programming_for_Everybody)
